@@ -34,7 +34,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-![description](http://cdn.makeagif.com/media/2-07-2016/0SLpji.gif)
+![description](http://cdn.makeagif.com/media/2-14-2016/BRMspk.gif)
 
 
 
